@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+}
+
+img{
+    width: 100%;
+}
+
+.caption-full{
+    padding: 10px;
+}
+
+.img-thumbnail{
+    padding: 0px;
+}
+
+.col-md-9{
+    padding-top: 10px;
+}
+
+.text-right{
+    padding: 10px;
+}
+
+.col-md-12{
+    padding:25px;
+}
